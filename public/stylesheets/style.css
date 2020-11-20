@@ -5,6 +5,12 @@ body {
 a {
   color: #00B7FF; }
 
+a:active {
+  text-decoration: none; }
+
+.active-link {
+  text-decoration: none; }
+
 .content_inner {
   width: 500px;
   margin: 0 auto; }
@@ -12,5 +18,8 @@ a {
 .link-inner {
   margin-top: 20px;
   text-align: center; }
+
+.content_link {
+  margin: 0 5px; }
 
 /*# sourceMappingURL=style.css.map */
